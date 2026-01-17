@@ -1,0 +1,40 @@
+*{
+    background-color: #212121;
+}
+.title{
+   text-align: center; 
+
+}
+.side-bar{
+    text-align: left;
+    width: 100px;
+    height:100px;
+    margin-top: 0px;
+    margin-right:5px;
+    background-color: gray;
+    display:inline-block;
+    
+}
+header h1 {
+    display: inline-block;
+}
+header{
+    color: red;
+    height: 50px;
+    justify-content: flex-start;
+    background-color: red;
+    text-align: center;
+    margin-bottom:20px;
+    
+
+}
+main{
+    display:inline-block;
+    text-align: center;
+    width: 500px;
+    background-color: yellow;
+}
+main p{
+    display:inline-block;
+
+}
